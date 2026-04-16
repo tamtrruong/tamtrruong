@@ -23,13 +23,16 @@
 
 ## ⚙️ Tech Stack
 
-<p>
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
-  <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
+
 
 ---
 
