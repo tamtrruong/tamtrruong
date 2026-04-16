@@ -1,45 +1,58 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center">
+  <img width="80%" alt="Hello, I'm Trương Thành Tâm" src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Truong%20Thanh%20Tam&fontSize=40&fontColor=ffffff" />
+</p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+## 👋 Hi, I'm Trương Thành Tâm
 
-**About me**
+🎓 Computer Science Student  
+💻 Passionate about Web Development  
+🚀 Currently learning **Spring Boot & React**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+---
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+## 🧠 About me
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- 💡 I enjoy building full-stack web applications  
+- 🔥 Focus on: Java, Spring Boot, React  
+- 📚 Always learning new technologies  
+- 💬 Ask me anything here:  
+  👉 https://github.com/tamtrruong/issues  
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+---
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+## ⚙️ Tech Stack
 
+<p>
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" />
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
+</p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+---
+
+## 📊 GitHub Stats
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=tamtrruong&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamtrruong&layout=compact&theme=tokyonight&hide_border=true" /> |
 | ------------- | ------------- |
 
-#### Top Repositories
+---
 
+## 🔥 Top Projects
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/tamtrruong">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamtrruong&repo=your-repo-name&theme=tokyonight" />
 </a>
 
-<br />
-<br />
+---
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
+## 📫 Connect with me
+
+<p align="left">
+  <a href="https://github.com/tamtrruong">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
