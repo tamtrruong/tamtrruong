@@ -42,21 +42,36 @@
 
 ## 🔥 Top Projects
 
+<table>
+<tr>
+<td width="50%">
 <a href="https://github.com/tamtrruong/QLKyTucXa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamtrruong&repo=QLKyTucXa&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tamtrruong&repo=QLKyTucXa&theme=tokyonight&hide_border=true" />
 </a>
+</td>
 
+<td width="50%">
 <a href="https://github.com/tamtrruong/device-matainace-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamtrruong&repo=device-matainace-system&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tamtrruong&repo=device-matainace-system&theme=tokyonight&hide_border=true" />
 </a>
+</td>
+</tr>
 
+<tr>
+<td width="50%">
 <a href="https://github.com/tamtrruong/text-summarization">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamtrruong&repo=text-summarization&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tamtrruong&repo=text-summarization&theme=tokyonight&hide_border=true" />
 </a>
+</td>
 
+<td width="50%">
 <a href="https://github.com/tamtrruong/event-ticketing-project">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=tamtrruong&repo=event-ticketing-project&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tamtrruong&repo=event-ticketing-project&theme=tokyonight&hide_border=true" />
 </a>
+</td>
+</tr>
+
+</table>
 
 ---
 
