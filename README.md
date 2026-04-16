@@ -55,7 +55,7 @@
 </a>
 
 <a href="https://github.com/tamtrruong/event-ticketing-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamtrruong&repo=event-ticketing-project&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=tamtrruong&repo=event-ticketing-project&theme=tokyonight" />
 </a>
 
 ---
