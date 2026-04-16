@@ -17,8 +17,7 @@
 - 💡 I enjoy building full-stack web applications  
 - 🔥 Focus on: Java, Spring Boot, React  
 - 📚 Always learning new technologies  
-- 💬 Ask me anything here:  
-  👉 https://github.com/tamtrruong/issues  
+- 💬 Ask me here: 👉 https://github.com/tamtrruong/issues  
 
 ---
 
@@ -36,15 +35,27 @@
 
 ## 📊 GitHub Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=tamtrruong&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamtrruong&layout=compact&theme=tokyonight&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=tamtrruong&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamtrruong&layout=compact&theme=tokyonight&hide_border=true" /> |
 | ------------- | ------------- |
 
 ---
 
 ## 🔥 Top Projects
 
-<a href="https://github.com/tamtrruong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamtrruong&repo=your-repo-name&theme=tokyonight" />
+<a href="https://github.com/tamtrruong/QLKyTucXa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamtrruong&repo=QLKyTucXa&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/tamtrruong/device-matainace-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamtrruong&repo=device-matainace-system&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/tamtrruong/text-summarization">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamtrruong&repo=text-summarization&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/tamtrruong/event-ticketing-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tamtrruong&repo=event-ticketing-project&theme=tokyonight" />
 </a>
 
 ---
